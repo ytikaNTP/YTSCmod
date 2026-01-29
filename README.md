@@ -1,6 +1,8 @@
 # YTSCmod
 Mini-cheat for Suspects (in development)
 
+>**WARNING!** I accept **NO LIABILITY** for any consequences resulting from your use of this utility. Any bans or penalties incurred are SOLELY your responsibility. This tool is intended STRICTLY for **EDUCATIONAL and DEMONSTRATIVE** PURPOSES **ONLY**!
+
 ## 📥 Installation
 
 1. **Download** the latest version
