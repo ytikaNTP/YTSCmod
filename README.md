@@ -1,3 +1,5 @@
+## This project **IN ACTIVE DEVELOPMENT!**
+
 # YTSCmod
 Mini-cheat for Suspects (in development)
 
@@ -24,4 +26,3 @@ Mini-cheat for Suspects (in development)
 ## 🙏 Thanks
 
 - **[MelonLoader](https://github.com/LavaGang/MelonLoader)** - Unity mod loader
-- **[UrGUI](https://github.com/Hirashi3630/UrGUI)** - GUI library for interface
